@@ -1,0 +1,9 @@
+module.exports.founderService = require("./founder.service");
+module.exports.emailService = require("./email.service");
+module.exports.contectService = require("./contect.service");
+module.exports.sportsService = require("./sports.service");
+module.exports.tournamentService = require("./tournament.service");
+module.exports.newsService = require("./news.service");
+module.exports.resultService = require("./result.service");
+module.exports.teamService = require("./team.service");
+module.exports.categoryService = require("./category.service");
